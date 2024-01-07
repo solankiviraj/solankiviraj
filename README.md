@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm vijay solanki</h1>
-<h3 align="center">A passionate data science</h3>
+<h3 align="center"> i am a data science engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solankiviraj&label=Profile%20views&color=0e75b6&style=flat" alt="solankiviraj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **i'm doing internship in data science**
+ **i'm doing internship in data science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
