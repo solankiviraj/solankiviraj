@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/data-management-system-dms-with-business-analytics-concept_103164-71.jpg?size=626&ext=jpg&ga=GA1.1.1556525246.1684985117&semt=ais)]
+[![MasterHead](https://img.freepik.com/free-photo/representation-user-experience-interface-design_23-2150165975.jpg?size=626&ext=jpg&ga=GA1.1.1556525246.1684985117&semt=ais)]
 <h1 align="center">Hi 👋, I'm vijay solanki</h1>
 <h3 align="center"> i am a data science engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
